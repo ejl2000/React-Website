@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/ejl2000/Website.git/static/css/main.ce9b743c.css",
-    "main.js": "/ejl2000/Website.git/static/js/main.b3754674.js",
-    "static/js/453.739587d2.chunk.js": "/ejl2000/Website.git/static/js/453.739587d2.chunk.js",
-    "static/media/wvan.JPG": "/ejl2000/Website.git/static/media/wvan.eba33317f8000c39de35.JPG",
-    "static/media/cove.JPG": "/ejl2000/Website.git/static/media/cove.9b6b40f9044686ca0302.JPG",
-    "static/media/cse1.jpg": "/ejl2000/Website.git/static/media/cse1.f393ed867f159f04a9d9.jpg",
-    "static/media/quay.JPG": "/ejl2000/Website.git/static/media/quay.4c103bc40a289c4a094c.JPG",
-    "static/media/cse2.jpeg": "/ejl2000/Website.git/static/media/cse2.0249a09c123f29808200.jpeg",
-    "static/media/mewe.JPG": "/ejl2000/Website.git/static/media/mewe.5eae75476b663bc93640.JPG",
-    "static/media/Emma.JPG": "/ejl2000/Website.git/static/media/Emma.617d34abc3e864fd7ac9.JPG",
-    "static/media/revival.jpg": "/ejl2000/Website.git/static/media/revival.a3e88c6aad3fd5372660.jpg",
-    "static/media/brainworld.jpg": "/ejl2000/Website.git/static/media/brainworld.f73b5ae831d463656f26.jpg",
-    "static/media/servicenow.jpg": "/ejl2000/Website.git/static/media/servicenow.0962e035190f345cb11c.jpg",
-    "static/media/slick.svg": "/ejl2000/Website.git/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/ejl2000/Website.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/ejl2000/Website.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/ejl2000/Website.git/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/ejl2000/Website.git/index.html",
-    "main.ce9b743c.css.map": "/ejl2000/Website.git/static/css/main.ce9b743c.css.map",
-    "main.b3754674.js.map": "/ejl2000/Website.git/static/js/main.b3754674.js.map",
-    "453.739587d2.chunk.js.map": "/ejl2000/Website.git/static/js/453.739587d2.chunk.js.map"
+    "main.css": "/ejl2000/React-Website.git/static/css/main.22a2f18e.css",
+    "main.js": "/ejl2000/React-Website.git/static/js/main.d37d33cf.js",
+    "static/js/453.739587d2.chunk.js": "/ejl2000/React-Website.git/static/js/453.739587d2.chunk.js",
+    "static/media/wvan.JPG": "/ejl2000/React-Website.git/static/media/wvan.eba33317f8000c39de35.JPG",
+    "static/media/cove.JPG": "/ejl2000/React-Website.git/static/media/cove.9b6b40f9044686ca0302.JPG",
+    "static/media/cse1.jpg": "/ejl2000/React-Website.git/static/media/cse1.f393ed867f159f04a9d9.jpg",
+    "static/media/quay.JPG": "/ejl2000/React-Website.git/static/media/quay.4c103bc40a289c4a094c.JPG",
+    "static/media/cse2.jpeg": "/ejl2000/React-Website.git/static/media/cse2.0249a09c123f29808200.jpeg",
+    "static/media/mewe.JPG": "/ejl2000/React-Website.git/static/media/mewe.5eae75476b663bc93640.JPG",
+    "static/media/Emma.JPG": "/ejl2000/React-Website.git/static/media/Emma.617d34abc3e864fd7ac9.JPG",
+    "static/media/revival.jpg": "/ejl2000/React-Website.git/static/media/revival.a3e88c6aad3fd5372660.jpg",
+    "static/media/brainworld.jpg": "/ejl2000/React-Website.git/static/media/brainworld.f73b5ae831d463656f26.jpg",
+    "static/media/servicenow.jpg": "/ejl2000/React-Website.git/static/media/servicenow.0962e035190f345cb11c.jpg",
+    "static/media/slick.svg": "/ejl2000/React-Website.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ejl2000/React-Website.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ejl2000/React-Website.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ejl2000/React-Website.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ejl2000/React-Website.git/index.html",
+    "main.22a2f18e.css.map": "/ejl2000/React-Website.git/static/css/main.22a2f18e.css.map",
+    "main.d37d33cf.js.map": "/ejl2000/React-Website.git/static/js/main.d37d33cf.js.map",
+    "453.739587d2.chunk.js.map": "/ejl2000/React-Website.git/static/js/453.739587d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce9b743c.css",
-    "static/js/main.b3754674.js"
+    "static/css/main.22a2f18e.css",
+    "static/js/main.d37d33cf.js"
   ]
 }
