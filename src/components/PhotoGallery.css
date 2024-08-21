@@ -1,0 +1,18 @@
+/* src/components/PhotoGallery.css */
+
+.photo-gallery {
+    max-width: 800px;
+    margin: auto;
+}
+
+.slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide-image {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}

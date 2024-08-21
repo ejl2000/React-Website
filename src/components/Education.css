@@ -1,0 +1,54 @@
+/* src/components/Education.css */
+
+#education-certifications {
+  padding: 30px;
+  background-color: #e0f2f1; /* Light aqua color to match the other sections */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.education-section, .certifications-section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 28px;
+  color: #004d40; /* Darker teal for headings */
+  margin-bottom: 20px;
+  border-bottom: 2px solid #28a4b5; /* Aqua color for the border */
+  padding-bottom: 10px;
+  text-align: center; /* Center align heading for better visual appeal */
+}
+
+.education-item, .certifications-section ul {
+  border: 1px solid #b2dfdb; /* Light border to match the background */
+  border-radius: 8px;
+  padding: 15px;
+  background-color: #ffffff; /* White background for each item */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for a slight elevation effect */
+}
+
+.education-item h3 {
+  font-size: 22px;
+  color: #00796b; /* Slightly darker teal for titles */
+  margin-bottom: 10px;
+  font-weight: bold; /* Bold titles for emphasis */
+}
+
+.education-item p {
+  font-size: 18px;
+  color: #004d40; /* Darker text color for readability */
+  margin: 0;
+  line-height: 1.6;
+}
+
+.certifications-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.certifications-section li {
+  font-size: 18px;
+  color: #004d40; /* Darker text color for better readability */
+  margin-bottom: 10px;
+}

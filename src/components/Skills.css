@@ -1,0 +1,32 @@
+/* src/components/Skills.css */
+
+.skills-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.skill-circle {
+  text-align: center;
+  margin: 20px;
+}
+
+.icon-container {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skill-icon {
+  color: white;
+  font-size: 3rem;
+}
+
+h3 {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  color: #333;
+}

@@ -1,0 +1,24 @@
+/* src/components/Home.css */
+
+#home {
+  padding: 60px 30px;
+  background-color: #ffffff; /* White background for a clean look */
+  color: #333333; /* Dark gray text for readability */
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif; /* Relaxing, easy-to-read font */
+}
+
+#home h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #004d40; /* Dark teal color for the heading to create contrast */
+}
+
+#home p {
+  font-size: 20px;
+  color: #666666; /* Light gray color for the paragraph text for a softer look */
+  max-width: 700px;
+  margin: 0 auto;
+}

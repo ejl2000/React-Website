@@ -1,0 +1,68 @@
+/* src/components/Projects.css */
+
+#projects {
+  padding: 30px;
+  background-color: #e0f2f1; /* Light aqua color to match the other sections */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#projects h2 {
+  font-size: 28px;
+  color: #004d40; /* Darker teal for headings */
+  margin-bottom: 20px;
+  border-bottom: 2px solid #28a4b5; /* Aqua color for the border */
+  padding-bottom: 10px;
+}
+
+.project-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #b2dfdb; /* Light border to match the background */
+  border-radius: 8px;
+  background-color: #ffffff; /* White background for each project item */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 8px;
+  object-fit: cover;
+  margin-right: 15px;
+}
+
+.project-item .service-now-image {
+  width: 180px; /* Adjust width for ServiceNow image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.project-details {
+  flex: 1;
+}
+
+.project-details h3 {
+  font-size: 22px;
+  color: #00796b; /* Slightly darker teal for project titles */
+  margin-bottom: 10px;
+}
+
+.project-details p {
+  font-size: 18px;
+  color: #004d40; /* Darker text color for descriptions */
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.project-link {
+  font-size: 16px;
+  color: #00796b; /* Match the link color with the project titles */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.project-link:hover {
+  color: #004d40; /* Darker color on hover */
+}

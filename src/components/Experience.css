@@ -1,0 +1,64 @@
+/* src/components/Experience.css */
+
+#experience {
+  padding: 40px;
+  background-color: #e0f2f1; /* Light aqua color to match the About section */
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  max-width: 1200px; /* Optional: limit the width for better readability */
+  margin: auto; /* Center align the section */
+}
+
+#experience h2 {
+  font-size: 32px;
+  color: #004d40; /* Darker teal for headings */
+  margin-bottom: 20px;
+  border-bottom: 3px solid #28a4b5; /* Aqua color for the border */
+  padding-bottom: 10px;
+  text-align: center; /* Center align the heading */
+}
+
+.experience-container {
+  display: flex;
+  flex-wrap: wrap; /* Allows items to wrap to the next line if necessary */
+  gap: 20px; /* Space between the items */
+}
+
+.experience-item {
+  flex: 1 1 calc(50% - 20px); /* Two items per row with space between */
+  background-color: #ffffff; /* White background for each item */
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  box-sizing: border-box; /* Includes padding in width calculation */
+}
+
+#experience h3 {
+  font-size: 24px;
+  color: #00796b; /* Slightly darker teal for subheadings */
+  margin-bottom: 10px;
+}
+
+#experience p {
+  font-size: 18px;
+  color: #004d40; /* Darker text color for better readability */
+  margin: 5px 0;
+  line-height: 1.6;
+}
+
+#experience ul {
+  list-style-type: disc; /* Use disc bullets for the list */
+  padding-left: 20px; /* Indent list items */
+  margin: 10px 0;
+}
+
+#experience li {
+  font-size: 18px;
+  color: #004d40;
+  margin-bottom: 10px;
+}
+
+#experience span {
+  font-style: italic;
+  color: #00796b; /* Use a matching color for italicized text */
+}
