@@ -1,6 +1,9 @@
 {
   "name": "emma-lee-website",
   "version": "0.1.0",
+  "engines": {
+    "node": "18.x"
+  },
   "private": true,
   "homepage": "https://ejl2000.github.io/React-Website/",
   "dependencies": {
